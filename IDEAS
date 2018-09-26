@@ -1,0 +1,26 @@
+TODO:
+
+Store:
+	Weapon Upgrades:
+		Plasma Cannon:
+			- Plasma Concentrator: damage upgrade, lvls 1-5
+			- Ion Collector: fire rate upgrade, lvls 1-5
+			- Heater Coils: piercing shots
+		High Energy Laser Gun:
+			- Overcharger: damage upgrade, lvls 1-3
+			- Cryo-cooling: lower cooldown, lvl 1-2
+		Ballistic Missile Launcher:
+			- Anti-Matter Warhead: damage upgrade, lvls 1-2
+			- Fusion Reactor: missiles damage enemies in the area
+		Automatic Particle Accelerator:
+			- shoots 1 particle per level, lvl 1-3
+		Magnetic Pulse Engine:
+			- damages all enemies on screen for small damage
+		Space Warper
+			- shoves all enemies back
+	Spaceship Upgrades:
+			- Laser Sights: shows red laser aim
+			- Chrono-manipulator Machine: slows enemy speed by 5% per level, lvls 1-3
+			- Debris Collector: increases scrap yield by 10% per level, lvls 1-3
+			- Repair Ship: repairs 1 damage (locked at max health)
+			- Upgrade Hull: increases health by 1 per level, lvls 1-5
